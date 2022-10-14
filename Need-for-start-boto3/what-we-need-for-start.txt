@@ -1,0 +1,4 @@
+1. Aws account
+    * It is great if we have free tier account
+2. Basic knowledge on aws services and python
+3. Basic knowledge on any python IDLE.
