@@ -1,0 +1,9 @@
+1. Boto3 is the name of the python SDK for aws.
+2. Boto3 allows us to directly create, update, and delete aws servies from our python scripts.
+3. We have to install boto3 to work with aws services using python.
+4. Install boto3
+   * python-2.x:
+     * pip install boto3
+   * python-3.x:
+     * pip3 install boto3
+   
