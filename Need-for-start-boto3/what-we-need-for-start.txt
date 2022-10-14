@@ -2,3 +2,11 @@
     * It is great if we have free tier account
 2. Basic knowledge on aws services and python
 3. Basic knowledge on any python IDLE.
+4. install awscli
+   * pip3 install awscli
+   * configure new users / rool user credentials using:
+     * aws configure --profile <profilename> ex : aws configure --profile ganesh-boto3-user
+       --> AWS Access Key ID [NOne] : xxxxxxxxxxxx  
+       --> AWS Secret Access Key [NOne] : xxxxxxxxxxxx 
+       --> Default region name [NOne] : xxxxxxxxxxxx
+       --> Default output format [NOne] : xxxxxxxxxxxx     
