@@ -1,0 +1,7 @@
+1. To work with boto3 we need iam user or root user to write python scripts.
+2. We can use root user or any IAM user programmatic access keys.
+3. login into aws console with root user,  
+   1. Search and open IAM service , Choose add user.
+   2. enter username, give programmatic access, choose password type.
+   3. add policy as user required.
+   4. review and create user, download and save credentials file
