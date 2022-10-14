@@ -1,0 +1,7 @@
+1. Install python 3.8.0 and above.
+2. To download go to www.python.org
+3. Set paths for python and pip
+4. install boto3
+  * pip3 install boto3
+5. install vs code
+  * install python pugins to work with python.
